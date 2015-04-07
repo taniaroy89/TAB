@@ -1,0 +1,65 @@
+1417928694168	Delete elements
+1417929643488	Delete elements
+1417971808593	Delete element
+1417971812232	Delete element
+1417971944536	Copy compilation unit
+1417971985909	Copy file
+1417973512130	Delete element
+1417973520643	Delete element
+1417976960631	Extracts string 'null' into R.string.button_
+1417977009227	Extracts string 'null' into R.string.main_button_trackbags
+1417977097104	Extracts string 'null' into R.string.main_button_notifications
+1417977225963	Extracts string 'null' into R.string.main_button_info
+1417977260852	Extracts string 'null' into R.string.main_button_logout
+1417978148779	Rename type 'testtable_activity'
+1417978465937	Rename resource 'testtable_activity.xml'
+1417978551692	Extracts string 'null' into R.string.track_table_date
+1417978569229	Extracts string 'null' into R.string.track_table_status
+1417978588593	Extracts string 'null' into R.string.track_table_ariport
+1417978616678	Extracts string 'null' into R.string.track_table_details
+1417981954476	Rename package 'com.traveler.bagtracking'
+1417982750325	Delete elements
+1417983764540	Change Layout
+1417985521644	Extracts string 'null' into R.string.login_lastname
+1417985800692	Extracts string 'null' into R.string.login_button_go
+1417985954291	Extracts string 'null' into R.string.login_idnum
+1417986067478	Extracts string 'null' into R.string.login_spinner_prompt
+1417986128385	Extracts string 'null' into R.string.login_spinner_tagid
+1417986160006	Extracts string 'null' into R.string.login_spinner_confirm
+1417986900690	Delete element
+1417986904977	Delete element
+1417988016523	Extracts string 'null' into R.string.login_prompt_choose
+1417989075845	Change Layout
+1417991121339	Rename resource 's.xml'
+1417991129001	Move 'spinner_dropdown_item.xml' to 'layout'
+1417991342976	Copy files
+1417999261531	Delete element
+1418027972595	Extracts string 'null' into R.string.track_title_current
+1418028040748	Rename field 'textView2'
+1418028055903	Rename field 'textView3'
+1418028071044	Rename field 'Date2'
+1418030721617	Extracts string 'null' into R.string.track_title_history
+1418031386806	Extracts string 'null' into R.string.track_button_refresh
+1418036777872	Rename field 'pid'
+1418037975396	Extracts string 'null' into R.string.notifications_toggle
+1418038093233	Rename type 'rent_activity'
+1418038114251	Rename resource 'rent_activity.xml'
+1418038307079	Extracts string 'null' into R.string.notifications_toggle_turnoff
+1418038351409	Extracts string 'null' into R.string.notifications_toggle_turnon
+1418038468164	Extracts string 'null' into R.string.notifications_leave
+1418047353500	Extracts string 'null' into R.string.notifications_button_notify
+1418048237267	Extracts string 'null' into R.string.toggle_on
+1418048257799	Extracts string 'null' into R.string.toggle_off
+1418054805892	Extracts string 'null' into R.string.info_title
+1418056031914	Extracts string 'null' into R.string.info_delayed_block
+1418056293180	Extracts string 'null' into R.string.info_delayed_title
+1418056701183	Extracts string 'null' into R.string.info_airline_title
+1418056805009	Extracts string 'null' into R.string.info_Airline_block
+1418057013169	Extracts string 'null' into R.string.info_damage_title
+1418057095585	Extracts string 'null' into R.string.info_damage_block
+1418057896841	Extracts string 'null' into R.string.info_airline_phone
+1418059596982	Delete element
+1418059600507	Delete element
+1418059612390	Delete element
+1418059616754	Delete element
+1418063366395	Rename field 'textView2'
